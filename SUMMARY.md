@@ -3,22 +3,26 @@
 ## 快速开始
 
 * [产品简介](README.md)
-* [如何开始](kuai-su-kai-shi/ru-he-kai-shi.md)
-* [官方链接](kuai-su-kai-shi/guan-fang-lian-jie.md)
+* [如何开始](kuai-su-kai-shi/ru-he-kai-shi/README.md)
+  * [部署客户端](kuai-su-kai-shi/ru-he-kai-shi/bu-shu-ke-hu-duan.md)
+  * [配置指纹浏览器](kuai-su-kai-shi/ru-he-kai-shi/pei-zhi-zhi-wen-liu-lan-qi.md)
+  * [启动客户端](kuai-su-kai-shi/ru-he-kai-shi/qi-dong-ke-hu-duan.md)
+  * [导入并绑定钱包](kuai-su-kai-shi/ru-he-kai-shi/dao-ru-bing-bang-ding-qian-bao.md)
+  * [创建并运行第一个任务](kuai-su-kai-shi/ru-he-kai-shi/chuang-jian-bing-yun-hang-di-yi-ge-ren-wu.md)
 
 ## 功能
 
-* [面板](gong-neng/mian-ban/README.md)
-  * [API KEY](gong-neng/mian-ban/api-key.md)
+* [面板（In Progress）](gong-neng/mian-ban-in-progress.md)
+* [我的设置（In Progress）](gong-neng/wo-de-she-zhi-in-progress.md)
 * [角色管理](gong-neng/jiao-se-guan-li/README.md)
-  * [角色组](gong-neng/jiao-se-guan-li/jiao-se-zu/README.md)
-    * [创建角色组](gong-neng/jiao-se-guan-li/jiao-se-zu/chuang-jian-jiao-se-zu.md)
-    * [角色组列表](gong-neng/jiao-se-guan-li/jiao-se-zu/jiao-se-zu-lie-biao.md)
-  * [角色](gong-neng/jiao-se-guan-li/jiao-se/README.md)
-    * [创建角色](gong-neng/jiao-se-guan-li/jiao-se/chuang-jian-jiao-se.md)
-    * [角色详情](gong-neng/jiao-se-guan-li/jiao-se/jiao-se-xiang-qing.md)
-    * [角色列表](gong-neng/jiao-se-guan-li/jiao-se/jiao-se-lie-biao/README.md)
-      * [检索](gong-neng/jiao-se-guan-li/jiao-se/jiao-se-lie-biao/jian-suo.md)
+  * [身份组](gong-neng/jiao-se-guan-li/shen-fen-zu/README.md)
+    * [身份组列表](gong-neng/jiao-se-guan-li/shen-fen-zu/shen-fen-zu-lie-biao.md)
+    * [创建身份组](gong-neng/jiao-se-guan-li/shen-fen-zu/chuang-jian-shen-fen-zu.md)
+  * [身份](gong-neng/jiao-se-guan-li/shen-fen/README.md)
+    * [创建角色](gong-neng/jiao-se-guan-li/shen-fen/chuang-jian-jiao-se.md)
+    * [角色详情](gong-neng/jiao-se-guan-li/shen-fen/jiao-se-xiang-qing.md)
+    * [角色列表](gong-neng/jiao-se-guan-li/shen-fen/jiao-se-lie-biao/README.md)
+      * [检索](gong-neng/jiao-se-guan-li/shen-fen/jiao-se-lie-biao/jian-suo.md)
 * [资源管理](gong-neng/zi-yuan-guan-li/README.md)
   * [社交媒体资源](gong-neng/zi-yuan-guan-li/she-jiao-mei-ti-zi-yuan/README.md)
     * [Gmail](gong-neng/zi-yuan-guan-li/she-jiao-mei-ti-zi-yuan/gmail.md)
@@ -49,6 +53,7 @@
     * [应用详情](gong-neng/ying-yong-guan-li/ying-yong-shi-chang/ying-yong-xiang-qing.md)
   * [脚本](gong-neng/ying-yong-guan-li/jiao-ben.md)
 * [任务管理](gong-neng/ren-wu-guan-li/README.md)
+  * [客户端列表](gong-neng/ren-wu-guan-li/ke-hu-duan-lie-biao.md)
   * [创建流程](gong-neng/ren-wu-guan-li/chuang-jian-liu-cheng/README.md)
     * [创建任务](gong-neng/ren-wu-guan-li/chuang-jian-liu-cheng/chuang-jian-ren-wu.md)
     * [智能流程编排（PRO）](gong-neng/ren-wu-guan-li/chuang-jian-liu-cheng/zhi-neng-liu-cheng-bian-pai-pro.md)
@@ -59,10 +64,20 @@
 
 ## 客户端
 
+* [客户端安装](ke-hu-duan/ke-hu-duan-an-zhuang/README.md)
+  * [简易安装](ke-hu-duan/ke-hu-duan-an-zhuang/jian-yi-an-zhuang.md)
+  * [标准安装](ke-hu-duan/ke-hu-duan-an-zhuang/biao-zhun-an-zhuang.md)
+  * [企业级安装](ke-hu-duan/ke-hu-duan-an-zhuang/qi-ye-ji-an-zhuang.md)
+* [指纹浏览器配置](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/README.md)
+  * [HubStudio](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/hubstudio/README.md)
+    * [内核下载](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/hubstudio/nei-he-xia-zai.md)
+    * [API模式](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/hubstudio/api-mo-shi.md)
+    * [插件管理](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/hubstudio/cha-jian-guan-li.md)
+  * [AdsPower（In Progress）](ke-hu-duan/zhi-wen-liu-lan-qi-pei-zhi/adspower-in-progress.md)
 * [配置管理](ke-hu-duan/pei-zhi-guan-li/README.md)
   * [API KEY](ke-hu-duan/pei-zhi-guan-li/api-key.md)
   * [Page 1](ke-hu-duan/pei-zhi-guan-li/page-1.md)
-* [资产管理](ke-hu-duan/zi-chan-guan-li.md)
+* [钱包管理](ke-hu-duan/qian-bao-guan-li.md)
 
 ## 场景案例
 
@@ -87,7 +102,18 @@
   * [配置定时任务](chang-jing-an-li/long-duan-shi-chong-tu-gou/pei-zhi-ding-shi-ren-wu.md)
   * [冲起来！](chang-jing-an-li/long-duan-shi-chong-tu-gou/chong-qi-lai.md)
 
-## FUNDAMENTALS
+## 开发者
 
-* [Team](fundamentals/team.md)
-* [Roadmap](fundamentals/roadmap.md)
+* [应用](kai-fa-zhe/ying-yong/README.md)
+  * [创建应用](kai-fa-zhe/ying-yong/chuang-jian-ying-yong.md)
+  * [上传应用](kai-fa-zhe/ying-yong/shang-chuan-ying-yong.md)
+* [脚本](kai-fa-zhe/jiao-ben/README.md)
+  * [开发脚本](kai-fa-zhe/jiao-ben/kai-fa-jiao-ben.md)
+  * [上传脚本](kai-fa-zhe/jiao-ben/shang-chuan-jiao-ben.md)
+* [版本管理](kai-fa-zhe/ban-ben-guan-li.md)
+
+## 关于我们
+
+* [团队](guan-yu-wo-men/tuan-dui.md)
+* [官方链接](guan-yu-wo-men/guan-fang-lian-jie.md)
+* [路线图](guan-yu-wo-men/lu-xian-tu.md)
